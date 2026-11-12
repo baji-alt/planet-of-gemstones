@@ -1,0 +1,335 @@
+{
+  "brand": {
+    "name": "Planet of Gemstones",
+    "nameAr": "ديوان الأحجار الكريمة",
+    "tagline": "Natural stones, written in the stars."
+  },
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "zodiac": "Zodiac",
+    "stones": "Stones",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart",
+    "menu": "Menu",
+    "close": "Close",
+    "skip": "Skip to content",
+    "language": "العربية",
+    "languageLabel": "Switch to Arabic"
+  },
+  "hero": {
+    "eyebrow": "Beirut · Natural gemstone jewelry",
+    "title": "Natural stones, written in the stars",
+    "titleAr": "أحجار طبيعية، مكتوبة في النجوم",
+    "subtitle": "Zodiac bracelets, men’s rings and silver jewelry set with hand-picked natural gemstones — each one chosen for its colour, its meaning and you.",
+    "ctaShop": "Shop the collection",
+    "ctaQuiz": "Find your stone",
+    "scroll": "Scroll to explore",
+    "interactHint": "Move to tilt the gem"
+  },
+  "categories": {
+    "eyebrow": "Collections",
+    "title": "Find your treasure",
+    "subtitle": "Four worlds of natural stones, from your zodiac sign to a ring worth passing down.",
+    "explore": "Explore",
+    "zodiac": {
+      "title": "Zodiac Bracelets",
+      "desc": "Gold chains with tumbled stones for each of the 12 signs."
+    },
+    "stones": {
+      "title": "Natural Stones",
+      "desc": "Loose gemstones with their meanings and properties."
+    },
+    "mens-rings": {
+      "title": "Men’s Rings",
+      "desc": "Silver and gold rings with bold, large gemstones."
+    },
+    "silver": {
+      "title": "Silver Jewelry",
+      "desc": "Solitaire rings, oval pendants and fine necklaces."
+    },
+    "prayer-beads": {
+      "title": "Prayer Beads",
+      "desc": "Misbaha of 33 natural stone beads with a silk tassel."
+    }
+  },
+  "zodiac": {
+    "eyebrow": "The zodiac wheel",
+    "title": "Your sign, your stones",
+    "subtitle": "Turn the wheel and choose your sign to reveal its bracelet, its stones and its dates.",
+    "chooseSign": "Choose a sign",
+    "stones": "Stones",
+    "dates": "Dates",
+    "element": "Element",
+    "ruler": "Ruling planet",
+    "shopBracelet": "View the bracelet",
+    "elements": {
+      "fire": "Fire",
+      "earth": "Earth",
+      "air": "Air",
+      "water": "Water"
+    },
+    "wheelLabel": "Interactive zodiac wheel"
+  },
+  "atelier": {
+    "eyebrow": "The 3D atelier",
+    "title": "Design your ring",
+    "subtitle": "Drag to turn, pinch or scroll to zoom. Swap the stone and the metal live.",
+    "stone": "Stone",
+    "metal": "Metal",
+    "cta": "Ask us to make it"
+  },
+  "best": {
+    "eyebrow": "Most loved",
+    "title": "Best sellers",
+    "subtitle": "The pieces our community keeps coming back for.",
+    "viewAll": "View all pieces"
+  },
+  "quiz": {
+    "eyebrow": "Find your stone",
+    "title": "Which stone is written for you?",
+    "subtitle": "Tell us your birthday and what you’d like to invite into your life.",
+    "step1": "Your birthday",
+    "step2": "Your intention",
+    "day": "Day",
+    "month": "Month",
+    "next": "Next",
+    "back": "Back",
+    "reveal": "Reveal my stone",
+    "intentions": {
+      "love": "Love",
+      "protection": "Protection",
+      "abundance": "Abundance",
+      "calm": "Calm"
+    },
+    "resultEyebrow": "Your stone",
+    "yourSign": "Your sign",
+    "why": "Why this stone",
+    "again": "Start again",
+    "shopBracelet": "Shop your bracelet",
+    "readMore": "Read about the stone"
+  },
+  "testimonials": {
+    "eyebrow": "Customer feedbacks",
+    "title": "Kind words from our clients",
+    "prev": "Previous testimonial",
+    "next": "Next testimonial",
+    "pause": "Pause slideshow",
+    "play": "Play slideshow",
+    "ofStars": "{n} out of 5 stars"
+  },
+  "insta": {
+    "eyebrow": "Instagram",
+    "title": "Join 108K stone lovers",
+    "follow": "Follow us",
+    "post": "View on Instagram"
+  },
+  "store": {
+    "eyebrow": "Visit us",
+    "title": "Our store in Beirut",
+    "subtitle": "Come see, touch and choose your stones in person.",
+    "address": "Near Riad El Solh, Beirut, Lebanon",
+    "hours": "Opening hours",
+    "hoursValue": "Mon – Sat · 10:00 – 19:00",
+    "hoursSunday": "Sunday · Closed",
+    "directions": "Get directions",
+    "loadMap": "Show the map",
+    "mapTitle": "Map showing Planet of Gemstones near Riad El Solh, Beirut"
+  },
+  "shop": {
+    "eyebrow": "The collection",
+    "title": "Shop",
+    "subtitle": "Every piece is set with natural stones and can be ordered in a message.",
+    "filters": "Filters",
+    "category": "Category",
+    "stone": "Stone",
+    "zodiac": "Zodiac sign",
+    "metal": "Metal",
+    "price": "Price",
+    "upTo": "Up to {price}",
+    "all": "All",
+    "clear": "Clear all",
+    "sort": "Sort by",
+    "sortOptions": {
+      "featured": "Featured",
+      "priceAsc": "Price: low to high",
+      "priceDesc": "Price: high to low",
+      "newest": "Newest"
+    },
+    "results": "No pieces | 1 piece | {count} pieces",
+    "empty": "No pieces match these filters yet.",
+    "showResults": "Show results",
+    "metals": {
+      "gold": "Gold",
+      "silver": "Silver"
+    },
+    "versions": {
+      "women": "Women",
+      "men": "Men"
+    }
+  },
+  "product": {
+    "addToCart": "Add to cart",
+    "added": "Added to your cart",
+    "orderWhatsapp": "Order on WhatsApp",
+    "metal": "Metal",
+    "size": "Size",
+    "sizeGuide": "Size guide",
+    "stoneMeaning": "Stone meaning",
+    "chakra": "Chakra",
+    "hardness": "Hardness (Mohs)",
+    "zodiac": "Zodiac",
+    "details": "Details",
+    "view3d": "3D view",
+    "gallery": "Gallery",
+    "photo": "Photo {n}",
+    "dragHint": "Drag to rotate · scroll or pinch to zoom",
+    "related": "You may also love",
+    "breadcrumbShop": "Shop",
+    "notFound": "This piece could not be found.",
+    "naturalNote": "Natural stones vary in shape and tone — yours will be one of a kind.",
+    "delivery": "Delivery all over Lebanon · International shipping to most countries",
+    "sizing": {
+      "bracelet": "Bracelets are adjustable from 15 to 19 cm with an extension chain. Measure your wrist with a strip of paper and add 1 cm for comfort.",
+      "ring": "Wrap a thin strip of paper around your finger, mark where it meets and measure the length in millimetres.",
+      "pendant": "Chain length 45 cm (18 in) with a 5 cm extension.",
+      "stone": "Each stone is 2–3 cm. Sizes vary naturally."
+    },
+    "ringTable": {
+      "size": "Size",
+      "circ": "Circumference",
+      "diam": "Diameter"
+    },
+    "version": "Version",
+    "versions": {
+      "women": "Women ♀ · charm chain",
+      "men": "Men ♂ · stone beads"
+    }
+  },
+  "stonesPage": {
+    "eyebrow": "Encyclopedia",
+    "title": "The Stones Encyclopedia",
+    "subtitle": "Meaning, colour, chakra and zodiac of every stone we work with.",
+    "search": "Search a stone",
+    "chakra": "Chakra",
+    "color": "Colour",
+    "zodiac": "Zodiac",
+    "meaning": "Meaning",
+    "properties": "Properties",
+    "hardness": "Hardness",
+    "shop": "Shop {stone}",
+    "all": "All chakras",
+    "none": "No stone matches your search."
+  },
+  "about": {
+    "eyebrow": "Our story",
+    "title": "A diwan for precious stones",
+    "lead": "Planet of Gemstones began with a simple belief: a natural stone is a small piece of the earth that carries a story — and it should be chosen with care.",
+    "p1": "In Arabic, a diwan is a gathering place — a court of poetry, a room where people meet. Our diwan is a home for precious stones and the people who love them, near Riad El Solh in the heart of Beirut.",
+    "p2": "Every amethyst, citrine, turquoise and lapis we use is hand-picked for its colour and character. We pair them with fine gold chains and sterling silver, and we match them to your zodiac sign, your intentions and your style.",
+    "p3": "What started as a small Instagram shop has grown into a community of more than 108,000 stone lovers across Lebanon and beyond. Thank you for letting our stones be part of your story.",
+    "values": {
+      "natural": {
+        "title": "Natural stones",
+        "text": "Real gemstones, tumbled or cut, never plastic look-alikes."
+      },
+      "meaning": {
+        "title": "Chosen with meaning",
+        "text": "Each piece comes with the story and properties of its stone."
+      },
+      "care": {
+        "title": "Made with care",
+        "text": "Packed by hand in Beirut and delivered across Lebanon."
+      }
+    },
+    "cta": "Visit the store"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let’s talk stones",
+    "subtitle": "The fastest way to reach us is WhatsApp. We answer every message.",
+    "whatsapp": "WhatsApp",
+    "whatsappText": "Order, ask about a stone or request a custom piece.",
+    "instagram": "Instagram",
+    "instagramText": "New pieces, feedbacks and stories every day.",
+    "visit": "Visit"
+  },
+  "cart": {
+    "title": "Your cart",
+    "empty": "Your cart is empty — the stars are waiting.",
+    "subtotal": "Subtotal",
+    "checkout": "Send order on WhatsApp",
+    "remove": "Remove {name}",
+    "increase": "Increase quantity",
+    "decrease": "Decrease quantity",
+    "note": "We confirm availability, delivery and payment with you on WhatsApp.",
+    "continue": "Continue shopping",
+    "count": "Cart, {n} items"
+  },
+  "common": {
+    "new": "New",
+    "bestseller": "Best seller",
+    "view": "View",
+    "viewProduct": "View {name}",
+    "loading3d": "Polishing the gem…",
+    "whatsapp": "Chat on WhatsApp",
+    "instagram": "Instagram",
+    "shopNow": "Shop now",
+    "and": "and",
+    "readMore": "Read more"
+  },
+  "footer": {
+    "about": "Natural gemstone jewelry from Beirut: zodiac bracelets, men’s rings, silver jewelry and natural stones.",
+    "explore": "Explore",
+    "visit": "Visit",
+    "rights": "All rights reserved.",
+    "madeIn": "Made with love in Beirut"
+  },
+  "wa": {
+    "greeting": "Hello Planet of Gemstones!",
+    "order": "I would like to order:",
+    "general": "Hello Planet of Gemstones! I have a question about your jewelry.",
+    "custom": "Hello! I would like a {metal} ring with {stone}.",
+    "total": "Total"
+  },
+  "seo": {
+    "home": {
+      "title": "Natural Gemstone Jewelry in Beirut",
+      "description": "Planet of Gemstones (ديوان الأحجار الكريمة): zodiac bracelets, men’s rings, silver jewelry and natural stones, hand-picked in Beirut, Lebanon."
+    },
+    "shop": {
+      "title": "Shop Zodiac Bracelets, Rings & Natural Stones",
+      "description": "Shop gold zodiac bracelets with natural stones, men’s gemstone rings, silver solitaires and pendants. Order on WhatsApp, delivery across Lebanon."
+    },
+    "stones": {
+      "title": "Stones Encyclopedia",
+      "description": "The meaning, colour, chakra and zodiac of amethyst, citrine, turquoise, lapis lazuli, moonstone and more natural gemstones."
+    },
+    "about": {
+      "title": "Our Story",
+      "description": "Planet of Gemstones is a Beirut jewelry house near Riad El Solh, devoted to natural stones chosen with meaning."
+    },
+    "contact": {
+      "title": "Contact & Store",
+      "description": "Visit Planet of Gemstones near Riad El Solh, Beirut, or order on WhatsApp. Opening hours, map and Instagram."
+    }
+  },
+  "error": {
+    "title": "Lost among the stars",
+    "text": "This page drifted out of orbit.",
+    "home": "Back home"
+  },
+  "shipping": {
+    "eyebrow": "Shipping & payment",
+    "title": "From our diwan to your door",
+    "lebanon": "Delivery all over Lebanon",
+    "lebanonText": "Fast delivery to every region of Lebanon.",
+    "world": "International shipping",
+    "worldText": "We ship to most countries around the world.",
+    "payment": "Easy payment",
+    "paymentText": "Payment and delivery details are confirmed with you on WhatsApp.",
+    "gift": "Gift-ready",
+    "giftText": "Every piece arrives wrapped and ready to give."
+  }
+}
