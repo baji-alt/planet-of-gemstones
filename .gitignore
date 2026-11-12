@@ -1,0 +1,35 @@
+# Nuxt / build output
+.nuxt
+.output
+.data
+.nitro
+.cache
+dist
+
+# Dependencies
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Misc
+.DS_Store
+Thumbs.db
+.fleet
+.idea
+.vscode/*
+!.vscode/extensions.json
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Generated at install time (scripts/copy-draco.mjs)
+public/draco
+
+# Local reference material (not for the public repo)
+referance image/
+reference.jpg
