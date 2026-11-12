@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Planet of Gemstones">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F1E2B8"/><stop offset="0.45" stop-color="#C9A24B"/><stop offset="1" stop-color="#9C7A2E"/></linearGradient>
+    <radialGradient id="b" cx="0.45" cy="0.35" r="0.75"><stop offset="0" stop-color="#8E2A4B"/><stop offset="1" stop-color="#6A1934"/></radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="97" fill="url(#b)"/>
+  <circle cx="100" cy="100" r="95" fill="none" stroke="url(#g)" stroke-width="3"/>
+  <circle cx="100" cy="100" r="89" fill="none" stroke="#C9A24B" stroke-opacity="0.35" stroke-width="0.8"/>
+  <g fill="none" stroke="url(#g)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M74 48H126L140 63L100 104L60 63Z"/><path d="M60 63H140"/><path d="M74 48L82 63L100 48L118 63L126 48"/><path d="M82 63L100 104L118 63"/><path d="M100 48V63" stroke-width="1.1" stroke-opacity="0.7"/>
+  </g>
+  <path d="M143 30C143.6 36.4 146.6 39.4 153 40C146.6 40.6 143.6 43.6 143 50C142.4 43.6 139.4 40.6 133 40C139.4 39.4 142.4 36.4 143 30Z" fill="url(#g)"/>
+  <path d="M44 86C70 116 128 114 160 70C132 104 80 108 44 86Z" fill="url(#g)"/>
+  <circle cx="160" cy="70" r="1.8" fill="#F1E2B8"/>
+  <text x="100" y="134" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-style="italic" font-size="15" fill="url(#g)" letter-spacing="0.5">Planet of</text>
+  <text x="100" y="157" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-weight="600" font-size="22" fill="url(#g)" letter-spacing="1.6">GEMSTONES</text>
+</svg>
